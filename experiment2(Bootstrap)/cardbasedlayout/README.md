@@ -25,7 +25,7 @@ A modern React + Bootstrap card-based UI that showcases computer science course 
 
 ```bash
 # Clone the repository
-git clone https://github.com/MANJOT1650/Full_Stack--23BAI70323-/tree/main/experiment2(Bootstrap)/cardbasedlayout
+git clone https://github.com/avvvvviiiiiiiiii/FSD_23BAI70305/tree/main/experiment2(Bootstrap)/cardbasedlayout
 cd cardBasedLayout
 
 # Install dependencies
